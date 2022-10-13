@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - prints
- * Return:Always 0
+ *
+ * Return:Always 0 (stops)
  */
 int main(void)
 {
