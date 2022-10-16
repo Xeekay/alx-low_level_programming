@@ -23,7 +23,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d is negetiv\n", n);
+		printf("%d is negetive\n", n);
 	}
 	return (0);
 }
