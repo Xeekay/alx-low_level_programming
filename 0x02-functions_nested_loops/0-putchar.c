@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  *main - primts _putchar and a new line
